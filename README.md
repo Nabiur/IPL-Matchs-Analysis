@@ -1,5 +1,7 @@
 # IPL Match Analysis
 
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white) ![EDA](https://img.shields.io/badge/Workflow-Exploratory%20Data%20Analysis-1F6FEB) ![Domain](https://img.shields.io/badge/Domain-Sports%20Analytics-0A7E07)
+
 ## Overview
 This project explores Indian Premier League (IPL) match data using Python and Jupyter Notebook. The analysis focuses on team performance, venue behavior, toss impact, and season-level trends.
 
